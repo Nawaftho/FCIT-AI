@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FCIT-AI/static/css/main.4a9d5249.css",
+    "main.js": "/FCIT-AI/static/js/main.8f20c952.js",
+    "index.html": "/FCIT-AI/index.html",
+    "main.4a9d5249.css.map": "/FCIT-AI/static/css/main.4a9d5249.css.map",
+    "main.8f20c952.js.map": "/FCIT-AI/static/js/main.8f20c952.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a9d5249.css",
+    "static/js/main.8f20c952.js"
+  ]
+}
